@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationFinderPractice</string>
+    <string name="find_location">Find location</string>
+    <string name="welcome">Welcome, Lets look for your location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="page2welcome">"Best assumption of your location</string>
+    <string name="readWifi">Read wifi data</string>
+    <string name="title_activity_wifi">WifiActivity</string>
+    <string name="wifiWelcome">Below marked are your wifi with strengths, refreshes every 5s</string>
+    <string name="wifiButton">Stop Wifi Refresh</string>
+</resources>
